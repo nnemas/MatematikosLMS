@@ -1,0 +1,11 @@
+inkriceniene@stud.mruni.eu;
+amlasevicius@stud.mruni.eu;
+mymarkelis@stud.mruni.eu;
+domikulskis@stud.mruni.eu;
+masubacius1@stud.mruni.eu;
+adsalkauskas@stud.mruni.eu;
+dobartusevicius@stud.mruni.eu;
+arbobinas@stud.mruni.eu;
+gicepauskas@stud.mruni.eu;
+judereskevicius1@stud.mruni.eu;
+naambrazevicius@stud.mruni.eu;
