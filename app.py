@@ -7,7 +7,7 @@ from datetime import datetime
 # ---------------- KONFIGŪRACIJA ----------------
 st.set_page_config(page_title="Sokratinis Math LMS", layout="wide", page_icon="📐")
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.8-flash"
 LESSON_FILE = "pamoka.json"          # bendras visiems naudotojams (session_state tarp naršyklių nesidalija!)
 LOG_FILE = "mokiniu_logai.txt"
 TEACHER_PASSWORD = os.getenv("TEACHER_PASSWORD", "")  # nustatykite aplinkos kintamajame
